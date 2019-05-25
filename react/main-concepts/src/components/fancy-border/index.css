@@ -1,0 +1,11 @@
+.FancyBorder {
+  border: 2px solid;
+}
+
+.FancyBorder-blue {
+  border-color: lightblue;
+}
+
+.FancyBorder-red {
+  border-color: red;
+}

@@ -1,0 +1,11 @@
+.Output {
+  height: 80px;
+  padding: 20px;
+
+  color: white;
+
+  font-size: 48px;
+  font-weight: lighter;
+
+  text-align: right;
+}
