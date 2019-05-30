@@ -23,4 +23,3 @@ add1ThenSubtract2 = compose(
 
 console.log(add1ThenSubtract2(3));
 console.log(add1ThenSubtract2(1));
-s;
